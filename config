@@ -1,3 +1,8 @@
+Host 35.247.222.16
+  HostName 35.247.222.16
+  IdentityFile ~/.ssh/id_ed25519
+  User heliomacedofilho
+
 Host *
   UseKeychain yes
   AddKeysToAgent yes
